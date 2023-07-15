@@ -1,1 +1,2 @@
 Hello to Git, Open Source Contributions 101
+World is changing, people are becoming so lazy that that they cannot follow simple instructions.
